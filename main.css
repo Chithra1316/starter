@@ -1,0 +1,14 @@
+body{
+    background-image: url("someimage.jpg");
+    background-size: 100%;
+}
+.header{
+    background-color: aqua;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#one{
+    background-color: blueviolet;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
